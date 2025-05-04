@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250504040551 +0800">
+<tv date="20250504102426 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -28272,6 +28272,18 @@
 	<programme channel="黑莓动画" start="20250504085600 +0800" stop="20250504102300 +0800">
 		<title lang="zh">葫芦兄弟电影版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250504102300 +0800" stop="20250504115200 +0800">
+		<title lang="zh">西游记之七十二变</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250504115200 +0800" stop="20250504133300 +0800">
+		<title lang="zh">蜡笔小新：我的搬家物语 仙人掌大袭击</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250504133300 +0800" stop="20250504150800 +0800">
+		<title lang="zh">蜡笔小新：决一胜负！逆袭的机器人爸爸</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250504150800 +0800" stop="20250504162600 +0800">
+		<title lang="zh">哪吒之灵珠重生</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -28292,6 +28304,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250504101300 +0800" stop="20250504114700 +0800">
 		<title lang="zh">傻傻爱你，傻傻爱我</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250504114700 +0800" stop="20250504130200 +0800">
+		<title lang="zh">毒战生死线2</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250504130200 +0800" stop="20250504145000 +0800">
+		<title lang="zh">迷宫的十字路口</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250504145000 +0800" stop="20250504161600 +0800">
+		<title lang="zh">美味侦探</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
@@ -28953,6 +28974,9 @@
 	<programme channel="龙岩综合" start="20250504231500 +0800" stop="20250504235900 +0800">
 		<title lang="zh">午夜影剧院</title>
 	</programme>
+	<channel id="IPTV经典电影">
+		<display-name lang="zh">IPTV经典电影</display-name>
+	</channel>
 	<channel id="五星体育">
 		<display-name lang="zh">五星体育</display-name>
 	</channel>
@@ -29030,8 +29054,5 @@
 	</programme>
 	<channel id="苏州文化生活">
 		<display-name lang="zh">苏州文化生活</display-name>
-	</channel>
-	<channel id="IPTV经典电影">
-		<display-name lang="zh">IPTV经典电影</display-name>
 	</channel>
 </tv>
